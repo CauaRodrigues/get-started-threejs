@@ -1,0 +1,2 @@
+# Getting Started with Three.js
+Primeiro projeto com three.js com o objetivo de aprender mais sobre essa biblioteca. Como preparação de ambiente, foi utilizado este [repositório](https://github.com/designcourse/threejs-webpack-starter).
